@@ -18,6 +18,8 @@ Raspian,
 Node.js, Johnny-Five and
 Meteor DDP.
 
+[How to get Docker working on your favourite ARM board with HypriotOS](http://blog.hypriot.com/post/how-to-get-docker-working-on-your-favourite-arm-board-with-hypriotos/)
+
 [Docker Sensor Fu on a Raspberry Pi](http://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/)
 
 [Raspberry Pi compatible Docker base image with Node.js](https://github.com/hypriot/rpi-node)
