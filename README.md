@@ -1,6 +1,6 @@
 # connected-galaxy
 
-Container based IoT plattform enhancing [mongoduinometeor](https://github.com/Goyapa/mongoduinometeor)
+Container based IoT plattform enhancing [mongoduinometeor](https://github.com/Goyapa/mongoduinometeor)(branch and add DDP)
 
  Client,
  Server,
