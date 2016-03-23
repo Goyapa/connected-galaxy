@@ -35,3 +35,9 @@ Meteor DDP.
 
 ## Docker resources
 [Newbie's Overview of Docker](http://www.troubleshooters.com/linux/docker/docker_newbie.htm)
+
+
+## More
+[Let Docker Swarm all over your Raspberry Pi Cluster](http://blog.hypriot.com/post/let-docker-swarm-all-over-your-raspberry-pi-cluster/)
+
+[Raspberry Pi Kubernetes Cluster](http://www.jinkit.com/k8s-on-rpi/)
