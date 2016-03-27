@@ -41,3 +41,7 @@ Meteor DDP.
 [Let Docker Swarm all over your Raspberry Pi Cluster](http://blog.hypriot.com/post/let-docker-swarm-all-over-your-raspberry-pi-cluster/)
 
 [Raspberry Pi Kubernetes Cluster](http://www.jinkit.com/k8s-on-rpi/)
+
+## Related projects:
+[voyager-bot](https://github.com/juliocesar-io/voyager-bot)
+[node-webduino](https://hub.docker.com/r/coopermaa/node-webduino/)
