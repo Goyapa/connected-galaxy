@@ -2,9 +2,9 @@
 
 Container based IoT plattform enhancing [mongoduinometeor](https://github.com/Goyapa/mongoduinometeor)(branch and add DDP)
 
- Client,
- Server,
- Embedded 
+## [Server](https://github.com/Goyapa/connected-galaxy-server) Server part of the "Connected Galaxy" project, the Meteor App.
+## [Client](https://github.com/Goyapa/connected-galaxy-client) Client/Mobile part of the "Connected Galaxy" project with ReactNative.
+## [Embedded](https://github.com/Goyapa/connected-galaxy-embedded) Embedded part of the "Connected Galaxy" project on RaspberryPi with Docker.
 
 ## Client and Server
 Meteor v1.3
