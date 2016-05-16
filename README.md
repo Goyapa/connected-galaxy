@@ -11,7 +11,7 @@ Server/WebClient part of the "Connected Galaxy" project, the Meteor App.
 Embedded part of the "Connected Galaxy" project on RaspberryPi with Docker.
 First implementation with Meteor-DDP and later Apollo and GraphQL.
 
-## [Mobile](https://github.com/Goyapa/connected-galaxy-client) 
+## [Mobile](https://github.com/Goyapa/connected-galaxy-mobile) 
 
 Client/Mobile part of the "Connected Galaxy" project with ReactNative.
 
