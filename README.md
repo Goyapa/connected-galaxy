@@ -6,14 +6,14 @@ Container based IoT plattform enhancing [mongoduinometeor](https://github.com/Go
 
 Server/WebClient part of the "Connected Galaxy" project, the Meteor App.
 
-## [Client](https://github.com/Goyapa/connected-galaxy-client) 
-
-Client/Mobile part of the "Connected Galaxy" project with ReactNative.
-
 ## [Embedded](https://github.com/Goyapa/connected-galaxy-embedded) 
 
 Embedded part of the "Connected Galaxy" project on RaspberryPi with Docker.
 First implementation with Meteor-DDP and later Apollo and GraphQL.
+
+## [Mobile](https://github.com/Goyapa/connected-galaxy-client) 
+
+Client/Mobile part of the "Connected Galaxy" project with ReactNative.
 
 ## WebClient and Server
 Meteor v1.3
